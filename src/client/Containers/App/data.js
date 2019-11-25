@@ -1,0 +1,26 @@
+export default  [
+    {
+        tit:'小米手机',
+        sprice:1899,
+        count:0,
+        id:1,
+    },
+    {
+        tit:'华为手机',
+        sprice:5899,
+        count:0,
+        id:2,
+    },
+    {
+        tit:'苹果手机',
+        sprice:1899,
+        count:0,
+        id:3,
+    },
+    {
+        tit:'OPPO手机',
+        sprice:1899,
+        count:0,
+        id:4,
+    },
+]
